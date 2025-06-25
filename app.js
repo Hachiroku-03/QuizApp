@@ -80,7 +80,7 @@
 //     loadQuestion(); 
 //   }
     
-//     document.addEventListener("DOMContentLoaded", loadQuestion);
+//     document.addEventListener("DOMContentLoaded", loadQuestion);2
 
 
 const quizData = [
